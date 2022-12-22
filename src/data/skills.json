@@ -1,0 +1,110 @@
+{
+    "languages": [
+        {
+            "name": "Javascript",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+        },
+        {
+            "name": "Typescript",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
+        },
+        {
+            "name": "PHP",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434"
+        },
+        {
+            "name": "Golang",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041"
+        },
+        {
+            "name": "Python",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029"
+        }
+    ],
+    "frameworks": [
+        {
+            "name": "Laravel",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png?20190820171151"
+        },
+        {
+            "name": "CodeIgniter",
+            "logo": "https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
+        },
+        {
+            "name": "Adonis JS",
+            "logo": "https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg"
+        },
+        {
+            "name": "Express JS",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805"
+        },
+        {
+            "name": "Echo",
+            "logo": "https://avatars.githubusercontent.com/u/2624634?v=4"
+        },
+        {
+            "name": "Gin",
+            "logo": "https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg"
+        },
+        {
+            "name": "Jquery",
+            "logo": "https://www.logo.wine/a/logo/JQuery/JQuery-Logo.wine.svg"
+        },
+        {
+            "name": "React JS",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"
+        },
+        {
+            "name": "React Native",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"
+        },
+        {
+            "name": "Tailwind, Bootstrap, Mantine, Chakra, MUI",
+            "logo": ""
+        }
+    ],
+    "databases": [
+        {
+            "name": "MySQL",
+            "logo": "https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"
+        },
+        {
+            "name": "MongoDB",
+            "logo": "https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"
+        },
+        {
+            "name": "Redis",
+            "logo": "https://cdn.worldvectorlogo.com/logos/redis.svg"
+        }
+    ],
+    "others": [
+        {
+            "name": "Docker",
+            "logo": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
+        },
+        {
+            "name": "Git",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
+        },
+        {
+            "name": "Linux",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/511px-Linux_Logo_in_Linux_Libertine_Font.svg.png?20220904132037"
+        },
+        {
+            "name": "RabbitMQ",
+            "logo": "https://www.svgrepo.com/show/303576/rabbitmq-logo.svg"
+        },
+        {
+            "name": "Unity",
+            "logo": "https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"
+        },
+        {
+            "name": "Jira",
+            "logo": "https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png"
+        },
+        {
+            "name": "GCP Compute Engine",
+            "logo": "https://idcloudace.files.wordpress.com/2021/07/image5-1.png?w=300"
+        }
+    ]
+}

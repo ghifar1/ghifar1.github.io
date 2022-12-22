@@ -1,0 +1,28 @@
+{
+    "experiences": [
+        {
+            "title": "Backend Engineer",
+            "type": "intern",
+            "company": "Hukumonline.com",
+            "start_month": "February 2022",
+            "end_month": "July 2022",
+            "description": "1. Build Cipta Kerja Education Platfrom backend for provide statutory access with Golang and Echo framework, in this project I'm also a lead developer that guides backend engineer, frontend engineer, and devops engineer. \n\n2. Build a Content Management System (CMS) which can easier data team for input regulations, this cms is created with React.js \n\nUsing Scrum Agile for Software Development Lifecycle with Jira,"
+        },
+        {
+            "title": "Web Developer",
+            "type": "contract",
+            "company": "Paramadina University",
+            "start_month": "February 2021",
+            "end_month": "Dec 2021",
+            "description": "1. Lead the project to achieve the goals. \n\n2. Translate Excel based application to PHP application. \n\n3. Develop accreditation system for use by internal audit."
+        },
+        {
+            "title": "Web Developer",
+            "type": "freelance",
+            "company": "MA Al-Khairiyah",
+            "start_month": "August 2019",
+            "end_month": "February 2022",
+            "description": "1. Develop a PPDB (Pendaftaran Peserta Didik Baru) system with Laravel and Bootstrap. \n\n2. Develop a Content Management System (CMS) and landing page with Laravel and Tailwind CSS. \n\nUsing Waterfall method for Software Development Lifecycle"
+        }
+    ]
+}
