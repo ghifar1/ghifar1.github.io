@@ -1,6 +1,14 @@
 {
     "experiences": [
         {
+            "title": "Junior Backend Engineer",
+            "type": "contract",
+            "company": "Okanemo",
+            "start_month": "August 2022",
+            "end_month": "October 2022",
+            "description": "Develop payment orchestrator for payment gateway company with Golang and Gin framework, and develop webview inside payment orchestrator with react.js. \n\nUsing Scrum Agile for Software Development Lifecycle with Jira."
+        },
+        {
             "title": "Backend Engineer",
             "type": "intern",
             "company": "Hukumonline.com",

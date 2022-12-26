@@ -15,10 +15,6 @@
         {
             "name": "Golang",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041"
-        },
-        {
-            "name": "Python",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029"
         }
     ],
     "frameworks": [
