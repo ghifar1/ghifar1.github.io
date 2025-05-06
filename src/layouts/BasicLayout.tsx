@@ -1,4 +1,4 @@
-import { Outlet } from "react-router";
+// import { Outlet } from "react-router";
 import MenuButton from "../component/MenuButton";
 import { useGSAP } from "@gsap/react";
 import SplitText from "gsap/SplitText";
