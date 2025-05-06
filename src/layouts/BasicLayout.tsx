@@ -43,11 +43,11 @@ export default function BasicLayout() {
 
     return (
         <div className="relative">
-            <div className="fixed h-svh w-svw bg-blue-500/40 bg-[url('./images/bgtest2.png')] bg-size-[auto_500px] z-0">
+            <div className="fixed h-svh w-svw bg-blue-500/40 bg-[url('/images/bgtest2.png')] bg-size-[auto_500px] z-0">
             </div>
             <div className="absolute h-full w-full z-[10]">
                 <div className="grid grid-cols-12">
-                    <div className="relative col-span-12 md:col-span-3 h-svh flex flex-col justify-end md:justify-center items-center gap-2 px-5 py-5">
+                    <div className="relative col-span-12 md:col-span-3 lg:col-span-4 h-svh flex flex-col justify-end md:justify-center items-center gap-2 px-5 py-5">
                         <div className="flex flex-col gap-2 w-full items-center bg-white/20 backdrop-blur-xs rounded-xl p-2 background-menu">
                             <MenuButton className="button-menu">
                                 <p>Home</p>
@@ -55,7 +55,7 @@ export default function BasicLayout() {
                             <MenuButton className="button-menu">
                                 <p> My Journey</p>
                             </MenuButton>
-                            <MenuButton className="button-menu">
+                            <MenuButton className="button-menu text-nowrap">
                                 Experience
                             </MenuButton>
                             <MenuButton className="button-menu">
